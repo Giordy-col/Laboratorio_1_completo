@@ -50,5 +50,9 @@
         "text_encoding": "cpp",
         "typeinfo": "cpp",
         "variant": "cpp"
-    }
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.fontFamily": "Consolas",
+    "terminal.integrated.shellArgs.windows": ["/K", "chcp 65001"]
+
 }
